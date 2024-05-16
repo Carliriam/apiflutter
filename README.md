@@ -1,16 +1,18 @@
-# apiflutter
+## Alterações Realizadas:
 
-A new Flutter project.
+## Tema:
 
-## Getting Started
+* O tema do aplicativo foi atualizado para utilizar as cores e estilos do Material Design 3.
+* A barra de navegação inferior, barra de aplicativo e a cor de fundo do scaffold foram definidas de acordo com as diretrizes do Material Design 3.
+* Ícones:
 
-This project is a starting point for a Flutter application.
+* Os ícones do Material Design 3 foram adicionados para substituir os ícones anteriores.
+* Ícones como adicionar usuário, editar usuário e excluir usuário foram atualizados para os ícones do Material Design 3.
+* Estilos de Componentes:
 
-A few resources to get you started if this is your first Flutter project:
+* O estilo dos componentes, como botões e campos de texto, foi ajustado para se alinhar com as diretrizes de design do Material Design 3.
+* O estilo da barra de aplicativo foi personalizado para incluir a cor de fundo e a cor dos ícones de acordo com as diretrizes do Material Design 3.
+* Funcionalidades:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Todas as funcionalidades do aplicativo, como listar usuários, adicionar usuário, editar usuário e excluir usuário, permanecem as mesmas.
+* As operações de CRUD (criar, ler, atualizar e excluir) foram mantidas, apenas os estilos e ícones foram atualizados para seguir o Material Design 3.
